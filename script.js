@@ -38,8 +38,6 @@ document.addEventListener("DOMContentLoaded", function () {
         "Mungkin itu aja sih yang mau aku omongin",
         "Kmu gak perlu njawab kok gappa, aku cuman mau keluarin perasaanku yang dah lama terpendam sihh",
         "Aseeeekkkk wkkwkwk 😅",
-        "Mungkin kalo dapet kesempatan dari kmu buat deketin",
-        "Yaa mau banget aku hehe 😊",
         "Masih banyak sih yang mau ceritain ke kmu",
         "Tapi cerita tadi udah mewakili lah tentang yang mau aku omongin ke kmu ness",
         "Makasih yaa udah dengerin aku cerita panjang banget",
